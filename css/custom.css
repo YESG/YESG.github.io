@@ -29,7 +29,7 @@
 	height:auto;
 	padding-left:10px;
 	padding-right:10px;
-	text-align:left;
+	/*text-align:left;*/
 	text-transform:none;
 }
 
@@ -73,5 +73,26 @@ a:hover{
 
 .member-name{
 	margin-bottom:0px;
-	
+	text-align:left;
+}
+
+.subpage-heading-pic{
+	max-height:10%;
+	max-width:10%;
+}
+
+.section{
+	text-align:center;
+}
+
+.lefty{
+	text-align:left;
+}
+
+.project-title{
+	font-size:2rem;
+}
+.project-text{
+	font-size:1.5rem;
+	font-weight:300;
 }
